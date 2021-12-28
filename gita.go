@@ -13,7 +13,7 @@ func main() {
 		Usage:       "gita is git agent tool",
 		Description: "gita is git agent tool",
 		Flags:       []cli.Flag{},
-		Version:     "v0.1.0-2011-12-15",
+		Version:     "v0.1.0-2011-12-28",
 		Authors: []*cli.Author{
 			&cli.Author{
 				Name:  "AllyDale",
@@ -30,6 +30,7 @@ func main() {
 			cmdClean,
 			cmdSync,
 			cmdClone,
+			cmdGoCi,
 		},
 	}
 
