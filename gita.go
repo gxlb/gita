@@ -31,6 +31,7 @@ func main() {
 			cmdSync,
 			cmdClone,
 			cmdGoCi,
+			cmdGoCover,
 		},
 	}
 

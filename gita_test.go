@@ -1,5 +1,6 @@
 package main_test
 
+/*
 import (
 	"gita/exec"
 	"gita/gitlib"
@@ -17,3 +18,4 @@ func getSrcBranch(cmd string) string {
 	}
 	return ""
 }
+*/
